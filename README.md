@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-
  ![Dashboard](https://github.com/Saragamil3/Online-Shopping-Trends-and-Customers-behavior-/blob/main/Screenshot%202025-09-08%20015108.png)
 
  ## Analysis 
- - Which products or categories are most popular?
+ -- Which products or categories are most popular?
      - Clothing and Accessories are most popular, and top products made purchases are Jewelry , Blouse, Dress.
  - Which categories are most  popular in each season ?
       - Fall:  Clothing 42 % ,  Footwear 38.59 %
