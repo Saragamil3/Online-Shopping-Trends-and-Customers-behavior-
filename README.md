@@ -5,6 +5,8 @@ E-Commerce shopping trends
 https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
 ## DASHBOARD
  ![Dashboard](https://github.com/Saragamil3/Online-Shopping-Trends-and-Customers-behavior-/blob/main/Screenshot%202025-09-08%20015108.png)
+ ![Pivot](https://github.com/Saragamil3/Online-Shopping-Trends-and-Customers-behavior-/blob/main/Screenshot%202025-09-22%20051435.png)
+ ![Pivot](https://github.com/Saragamil3/Online-Shopping-Trends-and-Customers-behavior-/blob/main/Screenshot%202025-09-22%20051755.png)
 
  ## Analysis 
  - Which products or categories are most popular?
